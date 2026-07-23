@@ -1,4 +1,4 @@
 # ประวัติการศึกษา
 ศึกษาที่ โรงเรียนเทศบาลศรีบุณยานุสรรณ์ ตั้งแต่ประถม-มอสาม <br>
-ปัจจุบันมอปลาย ศึกษาที่ กระทุ่มแบนวิเศษสมุทคุณ 
- <img width="484" height="681" alt="image" src="https://github.com/user-attachments/assets/532167ce-4513-4d7f-b28c-31319c82b2e5" />
+ปัจจุบันมอปลาย ศึกษาที่ กระทุ่มแบนวิเศษสมุทคุณ <br>
+<img width="484" height="681" alt="image" src="https://github.com/user-attachments/assets/532167ce-4513-4d7f-b28c-31319c82b2e5" />
