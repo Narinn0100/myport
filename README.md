@@ -8,13 +8,11 @@
 
 | หน้าอื่น | คลิ๊ก |
 |------|------|
-| ประวัติส่วนตัว🔍 | [Click Here](Btoomeeee.md) |
-| ระดับการศึกษา📝 | [Click Here](DGrade.md) |
-| เหตุผล❓ | [Click Here](Euni.md) |
-| เกียรติบัตร1 | [Click Here](Fg.md) |
-| เกียรติบัตร2 | [Click Here](Gg.md) |
-| เกียรติบัตร3 | [Click Here](Hg.md) |
-| เกียรติบัตร4 | [Click Here](Jg.md) |
-| รูปกิจกรรม1 | [Click Here](Lgit.md) |
-| รูปกิจกรรม2 | [Click Here](Mgit.md)|
-| รูปกิจกรรม3 | [Click Here](Ngit.md) |
+| ประวัติส่วนตัว | [Click](Tome.md) |
+| ระดับการศึกษา| [Click](mygrade.md) |
+| เหตุผล | [Click](myunisity.md) |
+| เกียรติบัตร1 | [Click](myyg1.md) |
+| เกียรติบัตร2 | [Click](myyg2.md) |
+| เกียรติบัตร3 | [Click](myyg3.md) |
+| รูปกิจกรรม | [Click](myygi.md) |
+
