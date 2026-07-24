@@ -8,6 +8,7 @@
 
 | หน้าอื่น | คลิ๊ก |
 |------|------|
+| myprogram | [Click](Tome.md) |
 | ประวัติส่วนตัว | [Click](Tome.md) |
 | ระดับการศึกษา| [Click](mygrade.md) |
 | เหตุผล | [Click](myunisity.md) |
